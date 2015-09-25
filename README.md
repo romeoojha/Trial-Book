@@ -10,3 +10,5 @@ This is a trial book that I am setting up to better understand this workflow.
     Possible with this editor
     Directory Var <ww>.
 ```
+
+[](https://www.youtube.com/watch?v=kdpfRLpu0FQ)
